@@ -158,8 +158,8 @@ The Hospital Management System (HMS) is a comprehensive web-based application de
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/hospital-management-system.git
-cd hospital-management-system
+git clone https://github.com/CHANGED-1/hospital_management.git
+cd hospital_management
 ```
 
 Or download and extract the ZIP file.
@@ -687,10 +687,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**Guloba Moses*
+- GitHub: [@CHANGED-1](https://github.com/CHANGED-1)
+- Email: consult@guloba.com
+<!-- - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile) -->
 
 ---
 
@@ -744,9 +744,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- 📧 Email: support@hospitalmanagementsystem.com
-- 📱 WhatsApp: +256 700 000000
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/hospital-management-system/issues)
+- 📧 Email: consult@guloba.com
+- 📱 WhatsApp: +256 783 968 324
+- 🐛 Issues: [GitHub Issues](https://github.com/CHANGED-1/hospital_management/issues)
 
 ---
 
